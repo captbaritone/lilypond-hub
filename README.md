@@ -1,5 +1,5 @@
-What is LilypondHub?
-====================
+What is Lilypond-Hub?
+=====================
 
 Inspired by the possibilities that open source music scores present, I decided
 to start an index of all known Lilypond music on Github.
