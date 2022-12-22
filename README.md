@@ -63,3 +63,6 @@ These projects generally only have one real contributor:
 - [nsceaux/nenvar](https://github.com/nsceaux/nenuvar): Major French ballet and
   lyric tragedies by Lully, Charpentier, Rameau etc.
   [Website](http://nicolas.sceaux.free.fr)
+
+- [madrisan/open-scores](https://github.com/madrisan/open-scores): Open Scores
+  for Piano encoded using LilyPond (*sources* and rendered *pdf* files)
