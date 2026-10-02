@@ -67,5 +67,5 @@ These projects generally only have one real contributor:
 - [madrisan/open-scores](https://github.com/madrisan/open-scores): Open Scores
   for Piano encoded using LilyPond (*sources* and rendered *pdf* files)
 
-- [stefkergall79/KergallScore](https://github.com/stefkergall79/KergallScore): Catholic sheet music for Masses, in French and Latin
+- [StephaneKergall/KergallScore](https://github.com/StephaneKergall/KergallScore): Catholic sheet music for Masses, in French and Latin
   (a few in English as well)
